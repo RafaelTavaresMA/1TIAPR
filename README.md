@@ -1,5 +1,4 @@
 # 1TIAPR
 Aulas Python
-pertence ao aluno Rafael
-
+pertence ao aluno
 
