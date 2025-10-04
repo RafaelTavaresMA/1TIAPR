@@ -18,4 +18,10 @@ for i in range(len(matriz)):
         linha_resultado.append(elemento_soma)
     matriz_resultado.append(linha_resultado)
 
+
+for linha in matriz_resultado:
+    for elemento in linha_resultado:
+        print(f"{elemento:4}", end="")
+    print()
+
 print(matriz_resultado)
